@@ -1,5 +1,6 @@
 # Video-Games-Market-Analysis
-This Tableau Project where analysis on the Video games industry in major markets has been performed. This project gains insights into trends, sales, etc.
+This works performs the analysis on the Video game industry in major markets accross globe. 
+The shown Tableau visualization gains insights into various trends in gaming over past four decades which will certainly give direction to Developers and Producers determining their projects.
 
 Tableau Public Profile:
 https://public.tableau.com/app/profile/kirtikumar.waykos/viz/VideoGamesMarketAnalysis/Story1
