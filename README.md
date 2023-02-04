@@ -4,3 +4,8 @@ This work performs a comprehensive analysis of the global video game industry in
 Tableau Public Profile:
 https://public.tableau.com/app/profile/kirtikumar.waykos/viz/VideoGamesMarketAnalysis/Story1
 
+
+
+![image](https://user-images.githubusercontent.com/68120874/216740952-f5f501db-1357-462c-83bf-cc7f1deabf87.png)
+
+
